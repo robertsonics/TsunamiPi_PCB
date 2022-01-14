@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name RPi_Hat)(type Legacy)(uri ${KIPRJMOD}/RPi_Hat.lib)(options "")(descr ""))
+  (lib (name ATSAMS70J19)(type Legacy)(uri ${KIPRJMOD}/Libraries/ATSAMS70J19/ATSAMS70J19.lib)(options "")(descr ""))
+  (lib (name ADAU1328)(type Legacy)(uri ${KIPRJMOD}/Libraries/ADAU1328/ADAU1328.lib)(options "")(descr ""))
+  (lib (name JTAG-header)(type Legacy)(uri ${KIPRJMOD}/Libraries/JTAG-header/JTAG-header.lib)(options "")(descr ""))
+  (lib (name TsunamiHat-rescue)(type Legacy)(uri ${KIPRJMOD}/TsunamiHat-rescue.lib)(options "")(descr ""))
+)

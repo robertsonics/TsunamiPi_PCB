@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ADAU1328)(type KiCad)(uri ${KIPRJMOD}/Libraries/ADAU1328/ADAU1328.pretty)(options "")(descr ""))
+  (lib (name ATSAMS70J19)(type KiCad)(uri ${KIPRJMOD}/Libraries/ATSAMS70J19/ATSAMS70J19.pretty)(options "")(descr ""))
+  (lib (name XTAL_ABLS-24.000MHZ-B4-T)(type KiCad)(uri ${KIPRJMOD}/Libraries/ABLS-20.000MHZ-B4-T/XTAL_ABLS-24.000MHZ-B4-T.pretty)(options "")(descr ""))
+  (lib (name JTAG-header)(type KiCad)(uri ${KIPRJMOD}/Libraries/JTAG-header/JTAG-header.pretty)(options "")(descr ""))
+)
